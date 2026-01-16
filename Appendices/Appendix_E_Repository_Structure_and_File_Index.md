@@ -1,11 +1,5 @@
 continuity-engine-2.1/
 │
-├── 00_Foundations/
-│   ├── CE-Overview.md
-│   ├── Core-Principles.md
-│   ├── Stewardship-Model.md
-│   └── Version-Philosophy.md
-│
 ├── 01_Personal-Systems/
 │   ├── Identity-Stack.md
 │   ├── Mode-Cycle-Engine.md
